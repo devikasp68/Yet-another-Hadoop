@@ -1,0 +1,16 @@
+{
+    "block_size": 64,
+    "path_to_datanodes": "/home/pes2ug19cs089/Bd/dfs/datanodes",
+    "path_to_namenodes": "/home/pes2ug19cs089/Bd/dfs/namenode",
+    "replication_factor": 3,
+    "num_datanodes": 5,
+    "datanode_size": 10,
+    "sync_period": 180,
+    "datanode_log_path": "/home/pes2ug19cs089/Bd/dfs/dlog",
+    "namenode_log_path": "/home/pes2ug19cs089/Bd/dfs/nlog",
+    "namenode_checkpoints": "/home/pes2ug19cs089/Bd/dfs/ncpoints",
+    "fs_path": "/home/pes2ug19cs089/Bd/dfs/filesystem",
+    "dfs_setup_config": "/home/pes2ug19cs089/Bd/dfs/setup.json"
+}
+
+
